@@ -3,7 +3,7 @@
 
 
 1, only my railgun   
-2, fermata～Akkord:fortissimo～
+2, fermata～Akkord:fortissimo～    
 3, sword of virgin   
 4, Luminize   
 5, glow in the darkness   
