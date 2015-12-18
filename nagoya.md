@@ -11,9 +11,9 @@
 5, before dawn daybreak -version 2015-  
 6, eternal reality  
 7, black bullet  
-8, rain of tear 
-9, fortuna on the Sixteenth night    
-10, Two souls -toward the truth- 
+8, rain of tear   
+9, fortuna on the Sixteenth night   
+10, Two souls -toward the truth-    
 11, whitebird  
 12, Luminize   
 13, sword of virgin   
@@ -26,5 +26,5 @@
 20, infinite synthesis   
 **アンコール**  
 21, way to answer    
-22, sister's noise 
-[fripSide](http://fripside.net/)
+22, sister's noise     
+[[fripSide]](http://fripside.net/)
