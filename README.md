@@ -1,0 +1,3 @@
+# fripSide セットリスト
+
+thinking
