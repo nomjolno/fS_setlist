@@ -1,6 +1,6 @@
 # concert tour 2015 ～infinite synchronicity～
 ## ＠名古屋市公会堂 大ホール (愛知県)
-### 2015/09/22 (火) 
+### 2015/09/22 (火)
 
 
 
@@ -21,7 +21,7 @@
 15, glow in the darkness  
 16, Hesitation Snow    
 17, Secret of my heart  
-18, everlasting 
+18, everlasting    
 19, absolute wish    
 20, infinite synthesis   
 **アンコール**  
