@@ -4,7 +4,7 @@
 
 
 
-1, only my railgun   
+1, only my railgun :sleepy:    
 2, fermata～Akkord:fortissimo～   
 3, Blaze of Reunion    
 4, fortissimo -from insanity affection-  
