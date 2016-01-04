@@ -18,3 +18,5 @@
 
 2015/12/13 (日)[府中の森芸術劇場 どりーむホール](https://github.com/nomjolno/fS_setlist/blob/master/tokyo.md#20151213-日)
 
+2015/12/31 (木)[神奈川県民ホール(カウントダウンライブ)](https://github.com/nomjolno/fS_setlist/blob/master/countdown15-16.md#20151231-木)
+
