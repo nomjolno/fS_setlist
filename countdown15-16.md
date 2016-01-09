@@ -24,7 +24,7 @@
 17, last fortune    
 18, infinite systhesis    
 **アンコール**     
-19, onry my railgun    
+19, only my railgun    
 20, Heaven is a Place on Earth    
 21, black bullet    
 [fripSide](http://fripside.net)
