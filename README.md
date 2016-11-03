@@ -20,3 +20,4 @@
 
 2015/12/31 (木)[神奈川県民ホール(カウントダウンライブ)](https://github.com/nomjolno/fS_setlist/blob/master/countdown15-16.md#20151231-木)
 
+2016/10/29 (土)[市原市市民会館 大ホール](https://github.com/nomjolno/fS_setlist/blob/master/2017_chiba.md#concert-tour-2016-2017--infinite-synthesis-3-)
