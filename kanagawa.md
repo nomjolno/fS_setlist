@@ -4,7 +4,7 @@
 
 
 
-1, onry my railgun   
+1, only my railgun   
 2, fermata~Akkord:fortissimo~   
 3, sword of virgin   
 4, Luminize   
