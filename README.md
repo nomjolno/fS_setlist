@@ -25,3 +25,8 @@
 
 ## concert tour 2016-2017 -infinite synthesis 3-    
 2016/10/29 (土)[市原市市民会館 大ホール](https://github.com/nomjolno/fS_setlist/blob/master/2017_chiba.md#concert-tour-2016-2017--infinite-synthesis-3-)
+
+2016/11/13 (日)[北ガス文化ホール 大ホール](https://github.com/nomjolno/fS_setlist/blob/master/2017_hokkaido.md#20161113-日)
+
+2016/11/19 (土)[神奈川県民ホール 大ホール](https://github.com/nomjolno/fS_setlist/blob/master/2017_kanagawa.md#20161119-土)
+
